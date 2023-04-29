@@ -1,6 +1,6 @@
-## About :
+# About :
 
-# The project will fullfill these three needs:
+## The project will fullfill these three needs:
     - As a blog visitor,
         I want to subscribe to the newsletter,
         So that I can receive email updates when new content is published on the blog;
@@ -19,7 +19,7 @@
 5. Write some queries to the database
 
 
-# Choosing a Web Framework
+## Choosing a Web Framework
     - actix-web:    
         does not have an configuration management system ORM integration out of the box,Could easily add Prometheus metrics, Easier to deploy distributed tracing(tracking or monitoring the requests in applications built with microservices(services which are used to do a specific task individually) )
     - tide:
